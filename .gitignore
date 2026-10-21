@@ -1,0 +1,10 @@
+# Secrets
+session_token.txt
+
+# Customer data
+RB_products.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
